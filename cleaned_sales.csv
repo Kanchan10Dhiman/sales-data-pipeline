@@ -1,0 +1,11 @@
+order_id,product,category,sales,quantity,city
+1,Laptop,Electronics,50000,1,Delhi
+2,Phone,Electronics,20000,2,Mumbai
+3,Shoes,Fashion,3000,3,Delhi
+4,Watch,Accessories,2000,1,Pune
+5,Laptop,Electronics,55000,1,Bangalore
+6,Phone,Electronics,18000,2,Delhi
+7,Shoes,Fashion,3500,2,Mumbai
+8,Watch,Accessories,2500,1,Delhi
+9,Laptop,Electronics,52000,1,Pune
+10,Phone,Electronics,22000,2,Bangalore
